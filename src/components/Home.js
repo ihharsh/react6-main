@@ -23,7 +23,7 @@ export default function Home() {
           </div>
           <div className="col-md-4 d-flex justify-content-center">
             <img
-              src="./profile.jpg"
+              src="./Profile.jpg"
               className="rounded-circle float-end"
               alt="profile image"
             />
